@@ -1,0 +1,5 @@
+student:dhanush
+class:data science
+rollno: 33
+college: Aditya degree college 
+branch: gajuwaka
